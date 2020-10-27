@@ -15,3 +15,13 @@ for more details : https://github.com/GeertJohan/go.rice
 for more details : https://github.com/gorilla/mux
 
 <code> go get github.com/gorilla/mux</code>
+
+### Run
+
+<code>
+ rice embed-go
+ 
+ go build
+ 
+ project
+ </code>
