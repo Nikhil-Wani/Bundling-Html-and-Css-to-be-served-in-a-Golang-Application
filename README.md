@@ -8,8 +8,7 @@ for more details : https://github.com/GeertJohan/go.rice
 
 <code>go get github.com/GeertJohan/go.rice
  
-go get github.com/GeertJohan/go.rice/rice
-</code>
+go get github.com/GeertJohan/go.rice/rice</code>
 
 2. gorilla/mux
 
