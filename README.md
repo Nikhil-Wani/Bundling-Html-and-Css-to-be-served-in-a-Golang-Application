@@ -18,10 +18,11 @@ for more details : https://github.com/gorilla/mux
 
 ### Run
 
-<code>
- rice embed-go
+<pre><code>
+rice embed-go
  
- go build
+go build
  
- project
- </code>
+project
+
+</code></pre>
